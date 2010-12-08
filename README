@@ -1,0 +1,7 @@
+Example of using envjs, rhino and Jasmine Reporters together.
+
+All of the code comes from
+- https://github.com/larrymyers/jasmine-reporters
+- http://www.mozilla.org/rhino/
+- www.envjs.com
+- http://pivotal.github.com/jasmine/
